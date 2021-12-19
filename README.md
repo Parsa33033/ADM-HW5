@@ -31,7 +31,7 @@ Riccardo Agabiti
  
 ## Files to set in the directory of the project
 
-### to be able to use the main.ipynb file, the three datasets have to be placed in the same directory:
+### To be able to use the main.ipynb file, the three datasets have to be placed in the same directory:
 
 1. sx-stackoverflow-a2q.txt
 2. sx-stackoverflow-c2q.txt
@@ -40,7 +40,7 @@ Riccardo Agabiti
 
 ## Files to be created automatically
 
-### when running the code, few files would be created as below:
+### When running the code, few files would be created as below:
 
 1. timestamp.csv
     > contains the combined graphs in a single csv file
