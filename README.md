@@ -6,7 +6,7 @@ In this homework, we build a system that provides users with information about o
 * **Backend:** where you need to develop efficient algorithms that define the functionalities of the system
 * **Frontend:** where you provide visualization for queries entered by the user
 
-In this repository there is only one file, `main.ipynb`, that contains all the runned cells and the relative outputs for each request and all the functions that we have implemented.
+In this repository the `main.ipynb` file contains all the runned cells and the relative outputs for each request and all the functions that we have implemented are in functions.py.
 
 
 
