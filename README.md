@@ -46,4 +46,10 @@ Riccardo Agabiti
     > contains the combined graphs in a single csv file
 2. my_graph.pkl
     > contains the dictionary of the graph created with a certain time interval (Just created for future refrence and is not used in the code)
+2. a2q.pkl
+    > a2q graph as a dictionary of nodes to list of neighbors. {u: [[v1,w1], [v2,w2], ...]}
+2. c2q.pkl
+    > c2q graph as a dictionary of nodes to list of neighbors. {u: [[v1,w1], [v2,w2], ...]}
+2. c2a.pkl
+    > c2a graph as a dictionary of nodes to list of neighbors. {u: [[v1,w1], [v2,w2], ...]}
 
