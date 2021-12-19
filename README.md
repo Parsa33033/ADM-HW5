@@ -29,7 +29,7 @@ Riccardo Agabiti
    > the py file containing all the functions necessary for main.ipynb to work properly
    
  
-## Files to set in the directory of the project
+## Files to put in the directory of the project
 
 ### To be able to use the main.ipynb file, the three datasets have to be placed in the same directory:
 
