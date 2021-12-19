@@ -1,5 +1,5 @@
-
 # ADM - Homework 5 - Exploring StackOverflow!
+
 
 In this homework, we build a system that provides users with information about our beloved StackOverflow. Specifically, the implementation of the system consists of two parts:
 
@@ -20,7 +20,6 @@ Benedetta Candelori
 Alessia Sgrigna
 
 Riccardo Agabiti
-
 
 ## Files and folders descriptions
 
@@ -47,3 +46,4 @@ Riccardo Agabiti
     > contains the combined graphs in a single csv file
 2. my_graph.pkl
     > contains the dictionary of the graph created with a certain time interval (Just created for future refrence and is not used in the code)
+
